@@ -1,0 +1,4 @@
+Case,High-freq energy,Image std,Level transitions %,Single-step transitions %,Uniform windows (ASM=1) %,Zero-contrast windows %,"Distinct [ASM,CON,MEAN] vectors",Cluster boundary pixels %,Effective no. of clusters,ARI vs original,MAE of MEAN vs original
+Original,156.815076,54.890784,26.477457,92.694898,4.857254,4.887009,154730,23.936844,3.381904,1.000000,0.000000
+7x7 smoothed,21.861097,50.859611,11.157657,100.000000,23.053360,23.794174,69810,31.566238,3.659867,0.287738,0.154519
+9x9 smoothed,15.149033,49.826862,9.405195,100.000000,27.735138,28.710556,54107,30.493546,3.937332,0.253660,0.209752
